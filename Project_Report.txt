@@ -1,0 +1,16 @@
+Project Title: Personality Prediction System via CV
+Project Level: Golden Level
+Internship Domain: Artificial Intelligence
+Technologies Used: Python, Tkinter, NLP, scikit-learn
+Duration: 03 May 2025 – 03 Jun 2025
+
+Project Overview:
+This project implements a personality prediction tool based on resume content. It applies natural language processing (NLP) techniques and logistic regression to classify personalities into Extrovert or Introvert.
+
+Key Features:
+- GUI for user-friendly interaction
+- Reads .docx resumes and extracts text
+- Classifies personality using TF-IDF vectorization and ML model
+
+Outcome:
+Experience in combining NLP, GUI development, and personality modeling using text analysis.
